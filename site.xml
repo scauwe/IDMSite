@@ -3,7 +3,7 @@
    <description name="Van Cauwenberge.info" url="https://raw.githubusercontent.com/scauwe/IDMSite/master/">
       See http://vancauwenberge.info/
    </description>
-   <feature url="features/info.vancauwenberge.designer.enhtrace_1.0.0.201508252312.jar" id="info.vancauwenberge.designer.enhtrace" version="1.0.0.201508252312">
+   <feature url="features/info.vancauwenberge.designer.enhtrace_1.0.0.201508262321.jar" id="info.vancauwenberge.designer.enhtrace" version="1.0.0.201508262321">
       <category name="designer"/>
    </feature>
    <category-def name="designer" label="designer"/>
